@@ -1,0 +1,4 @@
+name: Post weclome comment
+on:
+  pull_request:
+    types: [opened]
